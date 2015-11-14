@@ -1,5 +1,5 @@
 # MongoDB - Aula 01 - Exercício
-autor: Douglas Hennrich
+Autor: Douglas Hennrich
 
 ## Importando os restaurantes
 
@@ -15,5 +15,4 @@ mongoimport --db be-mean --collection restaurantes --drop --file restaurantes.js
 ```
 MacBook-Pro-de-Douglas(mongod-3.0.6) be-mean> db.restaurantes.find({}).count()
 25359
-
 ```

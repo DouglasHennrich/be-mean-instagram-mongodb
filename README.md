@@ -1,55 +1,72 @@
-## MongoDb - Aula 01
+# **Workshop BE-MEAN**
 
-#### Exercício
+![MeanStack](https://s3.amazonaws.com/media-p.slid.es/uploads/jbpionnier/images/196683/mean_small_vertical.png "MEAN STACK")
 
-Como ainda não temos muitos dados para usarmos o `mongoexport` iremos trabalhar apenas com o `mongoimport` nesse momento. Para fazermos isso primeiramente baixe [esse JSON](https://raw.githubusercontent.com/Webschool-io/be-mean-instagram/master/apostila/mongodb/data/restaurantes.json).
+ [Workshop de MEAN](https://github.com/Webschool-io/be-mean-instagram "Repositório Oficial") (Mongodb, Express, Angular e Node) via CROWDFUNDING.  
+Desenvolvimento de um Software similar ao Instagram.  
+Curso criado por [Jean Carlo Nascimento.](https://github.com/suissa)
 
-Após importar ele para uma coleção chamada `restaurantes`, no banco `be-mean`, copie o que foi escrito no seu terminal, por exemplo:
+- MongoDb
+    - Teoria
+    - CRUD
+    - insert
+    - save
+    - find
+    - findOne
+    - remove
+    - drop
+    - Paginação
+    - Agreggation Framework
+    - GridFs
 
-```
- mongoimport [AQUI VEM O COMANDO]
-2015-10-29T23:34:49.494-0200    connected to: 127.0.0.1:27017
-2015-10-29T23:34:49.495-0200    dropping: be-mean.restaurantes
-2015-10-29T23:34:52.487-0200    [##########..............] be-mean.restaurantes   5.2 MB/11.3 MB (45.5%)
-2015-10-29T23:34:54.732-0200    imported X documents
+----------
 
-```
+## [Slides](https://docs.google.com/presentation/d/1KXxmcwd47x4v2SymyiBPK7ucn80PruSvcw4mZ5S3nWc/edit#slide=id.p)
 
-Quero ver se com isso você conseguiu importar todos os documentos com sucesso, depois entre no console do `mongo` e execute a seguinte query, após selecionar o banco `be-mean`:
+----------
 
-```
-db.restaurantes.find({}).count()
-```
+### Aula 00 | 08.11.15
+- [Vídeo-Aula](https://www.youtube.com/watch?v=-ccU_-OIka4)
+- Emenda da Aula:
+    - Quem eu sou?
+    - O que é a Webschool.io?
+    - O que é o Be MEAN?
+    - Como irão ser as aulas?
+    - Quais módulos serão ensinados?
+    - Qual a duração do Be MEAN?
+    - Quando e como serão enviados os brindes?
+    - Como serão os cursos dos prêmios?
 
-Com isso você deverá criar um documento com a extensão `.md` chamado:
+### Aula 01 | 09.11.15
+- [Vídeo-Aula](https://www.youtube.com/watch?v=leYxsEAL_yY)
+- [Exercício](/Aulas/exercício-01.md)
+- [Resolvido](/Aulas/exercício-01-resolved.md)
+- Ementa da Aula:
+    - Teoria
+        - NoSQL
+        - MongoDB
+    - Instalação
 
-```
-mongodb-aula-01-exercicio.md
-```
+### Aula 02 | 10.11.15
+- [Vídeo-Aula](https://www.youtube.com/watch?v=PaNVk0V2UNI)
+- [Exercício](/Aulas/exercício-02.md)
+- [Resolvido](/Aulas/exercício-02-resolved.md)
+- Ementa da Aula:
+    - Cliente
+        - use database
+        - show dbs
+        - show collections
+    - CRUD
+        - insert
+        - save
 
-Esse documento deverá conter a seguinte estrutura:
-
-```md
-# MongoDB - Aula 01 - Exercício
-autor: SEU NOME
-
-## Importando os restaurantes
-
-    ```
-     mongoimport [AQUI VEM O COMANDO]
-    2015-10-29T23:34:49.494-0200    connected to: 127.0.0.1:27017
-    2015-10-29T23:34:49.495-0200    dropping: be-mean.restaurantes
-    2015-10-29T23:34:52.487-0200    [##########..............] be-mean.restaurantes   5.2 MB/11.3 MB (45.5%)
-    2015-10-29T23:34:54.732-0200    imported X documents
-
-    ```
-
-## Contando os restaurantes
-
-    ```
-    suissacorp(mongod-3.0.6) be-mean> db.restaurantes.find({}).count()
-    X
-
-    ```
-
-```
+### Aula 03 | 11.11.15
+- [Vídeo-Aula](https://www.youtube.com/watch?v=cIHjA1hyPPY)
+- [Exercício](/Aulas/exercício-03.md)
+- [Resolvido](/Aulas/exercício-03-resolved.md)
+- Ementa da Aula:
+    - CRUD
+        - find
+        - findOne
+    - Paginação
+    - Índices
