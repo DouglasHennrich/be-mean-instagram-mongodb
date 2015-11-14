@@ -107,7 +107,7 @@ Modelagem complexa e buscas dinâmicas.
 
 #### Grafo
 
-![Visualização de um grafo](https://github.com/Webschool-io/be-mean-instagram/raw/master/apostila/mongodb/images/nosql-type-graph.png)
+![Visualização de um grafo](./images/nosql-type-graph.png)
 
 Um banco de dados orientado a [grafos](https://pt.wikipedia.org/wiki/Teoria_dos_grafos) possui um base na teoria matemática dos grafos, mas que não é nada difícil, precisamos apenas pensar nas entidades como pontos(vértices) e que elas podem se relacionar com com outras entidades a partir de relações(arestas), como mostrado na imagem acima.
 
@@ -125,7 +125,7 @@ Dados inter-relacionados.
 
 #### Coluna
 
-![Visualização de um tipo coluna](https://github.com/Webschool-io/be-mean-instagram/raw/master/apostila/mongodb/images/nosql-type-column.png)
+![Visualização de um tipo coluna](./images/nosql-type-column.png)
 
 Esse é o tipo que tive menos contato, confesso, logo não posso falar muito sobre além o do que li.
 
