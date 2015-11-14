@@ -22,6 +22,7 @@ Curso criado por [Jean Carlo Nascimento.](https://github.com/suissa)
 ----------
 
 ## [Slides](https://docs.google.com/presentation/d/1KXxmcwd47x4v2SymyiBPK7ucn80PruSvcw4mZ5S3nWc/edit#slide=id.p)
+## [Apostila](/Apostila/README.md)
 
 ----------
 
