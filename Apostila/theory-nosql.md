@@ -34,7 +34,7 @@ Irei explicar um pouco dos seguintes grupos:
 
 #### Chave/Valor
 
-![Visualização de um tipo chave-valor](https://github.com/Webschool-io/be-mean-instagram/raw/master/apostila/mongodb/images/nosql-type-key-value.png)
+![Visualização de um tipo chave-valor](./images/nosql-type-key-value.png)
 
 Esse tipo de banco de dados são utilizados em sua grande maioria para resolver o problema de cache, pois a estrutura que eles usam é bem simples, é a estrutura que temos em qualquer banco como **índice**.
 
@@ -84,7 +84,7 @@ Cache.
 
 #### Documento
 
-![Visualização de um tipo documento](https://github.com/Webschool-io/be-mean-instagram/raw/master/apostila/mongodb/images/nosql-type-document.png)
+![Visualização de um tipo documento](./images/nosql-type-document.png)
 
 Um banco baseado em documento se assemelha bastante ao chave/valor pois também possui aquela estrutura:
 
@@ -96,7 +96,7 @@ Porém desa vez também temos a busca pelos valores internos da nossa entidade p
 
 O tipo de documento em que o MongoDb é baseado é o JSON.
 
-![meme Jason](https://github.com/Webschool-io/be-mean-instagram/raw/master/apostila/mongodb/images/meme-jason.jpg)
+![meme Jason](./images/meme-jason.jpg)
 
 - [MongoDB](https://www.mongodb.org/)
 - [CouchDB](http://couchdb.apache.org/)
