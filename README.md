@@ -61,13 +61,13 @@ Curso criado por [Jean Carlo Nascimento.](https://github.com/suissa)
         - insert
         - save
 
-### Aula 03 | 11.11.15
+### Aula 03 | 10.11.15
 - [Vídeo-Aula](https://www.youtube.com/watch?v=cIHjA1hyPPY)
 - [Exercício](/Aulas/exercício-03.md)
 - [Resolvido](/Aulas/exercício-03-resolved.md)
 - Ementa da Aula:
     - CRUD
-        - find
-        - findOne
-    - Paginação
-    - Índices
+        - find & findOne
+            - Operadores Aritméticos
+            - Operadores Lógicos
+            - Operadores "Existênciais"
