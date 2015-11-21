@@ -42,7 +42,7 @@ Curso criado por [Jean Carlo Nascimento.](https://github.com/suissa)
 - [Vídeo-Aula](https://www.youtube.com/watch?v=leYxsEAL_yY)
 - [Exercício](/Aulas/exercício-01.md)
 - [Resolvido](/Aulas/exercício-01-resolved.md)
-- Ementa da Aula:
+- Emenda da Aula:
     - Teoria
         - NoSQL
         - MongoDB
@@ -52,7 +52,7 @@ Curso criado por [Jean Carlo Nascimento.](https://github.com/suissa)
 - [Vídeo-Aula](https://www.youtube.com/watch?v=PaNVk0V2UNI)
 - [Exercício](/Aulas/exercício-02.md)
 - [Resolvido](/Aulas/exercício-02-resolved.md)
-- Ementa da Aula:
+- Emenda da Aula:
     - Cliente
         - use database
         - show dbs
@@ -65,9 +65,38 @@ Curso criado por [Jean Carlo Nascimento.](https://github.com/suissa)
 - [Vídeo-Aula](https://www.youtube.com/watch?v=cIHjA1hyPPY)
 - [Exercício](/Aulas/exercício-03.md)
 - [Resolvido](/Aulas/exercício-03-resolved.md)
-- Ementa da Aula:
+- Emenda da Aula:
     - CRUD
         - find & findOne
             - Operadores Aritméticos
             - Operadores Lógicos
             - Operadores "Existênciais"
+
+### Aula 04 - Part 1 | 16.11.15
+- [Vídeo-Aula](https://www.youtube.com/watch?v=ONzJsNbv15U)
+- Emenda da Aula:
+    - CRUD
+        - update
+        - remove
+        - drop
+    - Paginação
+
+### Aula 04 - Part 2 | 17.11.15
+- [Vídeo-Aula](https://www.youtube.com/watch?v=ozbmQb6SVQk)
+- [Exercício](/Aulas/exercício-04.md)
+- [Resolvido](/Aulas/exercício-04-resolved.md)
+- Emenda da Aula:
+    - Options do `update`
+    - Operadores de Busca em arrays
+    - Operadores de Negação
+
+### Aula 05 | 18.11.15
+- [Vídeo-Aula](https://www.youtube.com/watch?v=1eHc8reT_Vk)
+- [Exercício](/Aulas/exercício-05.md)
+- [Resolvido](/Aulas/exercício-05-resolved.md)
+- Emenda da Aula:
+    - Aggregate
+    - Limit
+    - Skip
+    - Count
+    - Group
