@@ -2,7 +2,7 @@
 
 ![MeanStack](https://s3.amazonaws.com/media-p.slid.es/uploads/jbpionnier/images/196683/mean_small_vertical.png "MEAN STACK")
 
- [Workshop de MEAN](https://github.com/Webschool-io/be-mean-instagram "Repositório Oficial") (Mongodb, Express, Angular e Node) via CROWDFUNDING.  
+[Workshop de MEAN](https://github.com/Webschool-io/be-mean-instagram "Repositório Oficial") (Mongodb, Express, Angular e Node) via CROWDFUNDING.  
 Desenvolvimento de um Software similar ao Instagram.  
 Curso criado por [Jean Carlo Nascimento.](https://github.com/suissa)
 
@@ -100,3 +100,19 @@ Curso criado por [Jean Carlo Nascimento.](https://github.com/suissa)
     - Skip
     - Count
     - Group
+
+### Aula 06 - Part 1 | 18.11.15
+- [Vídeo-Aula](https://www.youtube.com/watch?v=5bbWeEEzRQM)
+- Emenda da Aula:
+    - Correção da aula 4 e 5
+    - Relacionamentos
+
+### Aula 06 - Part 2 | 27.11.15
+- [Vídeo-Aula](https://www.youtube.com/watch?v=IXz4IL0da1k)
+- [Exercício Bruno](/Aulas/exercício-06-Bruno.md)
+- [Resolvido Bruno](/Aulas/exercício-06-Bruno-resolved.md)
+- Emenda da Aula:
+    - Explain
+    - Índices
+    - GridFS
+    - ReplicaSet
