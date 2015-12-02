@@ -28,7 +28,7 @@ Curso criado por [Jean Carlo Nascimento.](https://github.com/suissa)
 
 ### Aula 00 | 08.11.15
 - [Vídeo-Aula](https://www.youtube.com/watch?v=-ccU_-OIka4)
-- Emenda da Aula:
+- Ementa da Aula:
     - Quem eu sou?
     - O que é a Webschool.io?
     - O que é o Be MEAN?
@@ -42,7 +42,7 @@ Curso criado por [Jean Carlo Nascimento.](https://github.com/suissa)
 - [Vídeo-Aula](https://www.youtube.com/watch?v=leYxsEAL_yY)
 - [Exercício](/Aulas/exercício-01.md)
 - [Resolvido](/Aulas/exercício-01-resolved.md)
-- Emenda da Aula:
+- Ementa da Aula:
     - Teoria
         - NoSQL
         - MongoDB
@@ -52,7 +52,7 @@ Curso criado por [Jean Carlo Nascimento.](https://github.com/suissa)
 - [Vídeo-Aula](https://www.youtube.com/watch?v=PaNVk0V2UNI)
 - [Exercício](/Aulas/exercício-02.md)
 - [Resolvido](/Aulas/exercício-02-resolved.md)
-- Emenda da Aula:
+- Ementa da Aula:
     - Cliente
         - use database
         - show dbs
@@ -65,7 +65,7 @@ Curso criado por [Jean Carlo Nascimento.](https://github.com/suissa)
 - [Vídeo-Aula](https://www.youtube.com/watch?v=cIHjA1hyPPY)
 - [Exercício](/Aulas/exercício-03.md)
 - [Resolvido](/Aulas/exercício-03-resolved.md)
-- Emenda da Aula:
+- Ementa da Aula:
     - CRUD
         - find & findOne
             - Operadores Aritméticos
@@ -74,7 +74,7 @@ Curso criado por [Jean Carlo Nascimento.](https://github.com/suissa)
 
 ### Aula 04 - Part 1 | 16.11.15
 - [Vídeo-Aula](https://www.youtube.com/watch?v=ONzJsNbv15U)
-- Emenda da Aula:
+- Ementa da Aula:
     - CRUD
         - update
         - remove
@@ -85,7 +85,7 @@ Curso criado por [Jean Carlo Nascimento.](https://github.com/suissa)
 - [Vídeo-Aula](https://www.youtube.com/watch?v=ozbmQb6SVQk)
 - [Exercício](/Aulas/exercício-04.md)
 - [Resolvido](/Aulas/exercício-04-resolved.md)
-- Emenda da Aula:
+- Ementa da Aula:
     - Options do `update`
     - Operadores de Busca em arrays
     - Operadores de Negação
@@ -94,7 +94,7 @@ Curso criado por [Jean Carlo Nascimento.](https://github.com/suissa)
 - [Vídeo-Aula](https://www.youtube.com/watch?v=1eHc8reT_Vk)
 - [Exercício](/Aulas/exercício-05.md)
 - [Resolvido](/Aulas/exercício-05-resolved.md)
-- Emenda da Aula:
+- Ementa da Aula:
     - Aggregate
     - Limit
     - Skip
@@ -103,7 +103,7 @@ Curso criado por [Jean Carlo Nascimento.](https://github.com/suissa)
 
 ### Aula 06 - Part 1 | 18.11.15
 - [Vídeo-Aula](https://www.youtube.com/watch?v=5bbWeEEzRQM)
-- Emenda da Aula:
+- Ementa da Aula:
     - Correção da aula 4 e 5
     - Relacionamentos
 
@@ -111,8 +111,18 @@ Curso criado por [Jean Carlo Nascimento.](https://github.com/suissa)
 - [Vídeo-Aula](https://www.youtube.com/watch?v=IXz4IL0da1k)
 - [Exercício Bruno](/Aulas/exercício-06-Bruno.md)
 - [Resolvido Bruno](/Aulas/exercício-06-Bruno-resolved.md)
-- Emenda da Aula:
+- Ementa da Aula:
     - Explain
     - Índices
     - GridFS
     - ReplicaSet
+
+### Aula 07 | 01.12.15
+- [Vídeo-Aula](https://www.youtube.com/watch?v=1ElYrkSIvII&feature=youtu.be)
+- Ementa da Aula:
+    - Árbitros nas Replicas
+    - Sharding
+    - User & Passwords
+    - Modelagem
+    - Robomongo
+    - Artigo & Projeto Final
